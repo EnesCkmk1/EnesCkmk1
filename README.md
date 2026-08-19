@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer - AI Agents & Enterprise AI @ Danske Bank</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+%2F+GenAI+Enthusiast;Building+Oasis+%26+FiveXDK;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+%2F+GenAI+Enthusiast;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 ---
