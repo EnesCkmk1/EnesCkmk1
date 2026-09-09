@@ -1,42 +1,80 @@
-<h1 align="center">Hej, jeg er Enes 👋</h1>
-<h3 align="center">Software Engineer - AI Agents & Enterprise AI @ Danske Bank</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;AI+%2F+GenAI+Enthusiast;Always+shipping+something+new" alt="Typing SVG" />
+# Enes Cakmak
+
+### Software Engineer building AI products, agents and reliable backend systems
+
+I build practical AI systems with a strong focus on the engineering around the
+model: clear interfaces, evaluation, observability, security and a useful user
+experience.
+
+<a href="https://github.com/EnesCkmk1"><img src="https://img.shields.io/badge/GitHub-EnesCkmk1-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</div>
+
+## What I work on
+
+- AI agents and enterprise AI workflows
+- Retrieval, document intelligence and structured extraction
+- LLM evaluation, prompt experiments and guardrails
+- OpenTelemetry-based observability for AI applications
+- Full-stack TypeScript and Python systems
+
+I currently work with AI Agents and Enterprise AI at Danske Bank, alongside
+freelance full-stack work.
+
+## Featured projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [AI Observability Lab](https://github.com/EnesCkmk1/observability) | A traced and evaluated banking RAG assistant with OpenTelemetry, Phoenix, guardrails, prompt experiments and optional Dynatrace fan-out. |
+| [Document Intelligence](https://github.com/EnesCkmk1/main-ai-explainer) | A Danish document analysis app with Claude, PDF/image/DOCX input, structured outputs, runtime validation and reproducible evaluation cases. |
+| [InvoiceFlow AI](https://github.com/EnesCkmk1/main-invoiceai) | An invoice platform with deterministic natural-language parsing, optional OpenAI assistance, server-side calculations, Stripe payments and security controls. |
+
+These projects are designed as working engineering case studies. Each one
+shows a different part of the AI application lifecycle, from input handling and
+business logic to evaluation, deployment and operational concerns.
+
+## Engineering toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
 </p>
 
----
+## How I approach AI engineering
 
-### 🚀 Om mig
+```text
+product need
+    -> typed application boundary
+    -> retrieval, tools or model call
+    -> validation and guardrails
+    -> evaluation and observability
+    -> feedback into the next iteration
+```
 
-- 💼 Software Engineer (AI Agents & Enterprise AI) hos **Danske Bank**
-- 🌐 Full Stack Engineer (Freelance)
-- 🎓 Roskilde Technical College
-- 📫 Nå mig via mine projekter herunder
+The goal is simple: make AI features understandable, testable and useful in a
+real product, rather than treating the model call as the entire system.
 
----
+## Currently exploring
 
-### 🧰 Tech Stack
+- Better evaluation datasets for document and RAG workflows
+- Cost, latency and quality trade-offs across model providers
+- Safer tool use and structured outputs for production agents
+- Tracing and incident workflows for AI features
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+<div align="center">
+
+### Thanks for stopping by
+
+Feel free to explore the repositories above - they contain the implementation,
+tests and engineering notes behind the demos.
+
+</div>
