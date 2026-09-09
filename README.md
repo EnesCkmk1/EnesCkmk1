@@ -22,6 +22,10 @@ experience.
 I currently work with AI Agents and Enterprise AI at Danske Bank, alongside
 freelance full-stack work.
 
+Jeg har altid været typen, der nørder teknologi for nørderiets egen skyld -
+jeg kan lide at forstå, hvordan tingene virker, bygge dem selv og følge en idé
+hele vejen fra eksperiment til noget, andre faktisk kan bruge.
+
 ## Featured projects
 
 | Project | What it demonstrates |
