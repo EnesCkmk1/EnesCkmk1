@@ -18,12 +18,12 @@ safe and genuinely helpful for the person using it.
 
 ## Projects I'm proud of
 
-| Project | A quick look |
-| --- | --- |
-| [Respona](https://github.com/EnesCkmk1/respona-pov) | A Danish AI voice agent for restaurants: from a phone call to an order in a dashboard. |
-| [Document Intelligence](https://github.com/EnesCkmk1/main-ai-explainer) | A Danish document-analysis app for PDFs, images and DOCX files with structured, validated output. |
-| [InvoiceFlow AI](https://github.com/EnesCkmk1/main-invoiceai) | An invoice platform that combines deterministic business logic with optional AI assistance. |
-| [AI Observability Lab](https://github.com/EnesCkmk1/observability) | A traced and evaluated RAG assistant — one part of the AI engineering picture, not the whole story. |
+| Project                                                                 | A quick look                                                                                        |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Respona](https://github.com/EnesCkmk1/respona-pov)                     | A Danish AI voice agent for restaurants: from a phone call to an order in a dashboard.              |
+| [Document Intelligence](https://github.com/EnesCkmk1/main-ai-explainer) | A Danish document-analysis app for PDFs, images and DOCX files with structured, validated output.   |
+| [InvoiceFlow AI](https://github.com/EnesCkmk1/main-invoiceai)           | An invoice platform that combines deterministic business logic with optional AI assistance.         |
+| [AI Observability Lab](https://github.com/EnesCkmk1/observability)      | A traced and evaluated RAG assistant — one part of the AI engineering picture, not the whole story. |
 
 ## A little about how I work
 
