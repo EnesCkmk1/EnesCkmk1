@@ -1,58 +1,34 @@
 <div align="center">
 
-# Hey, I'm Enes 👋
+# Hey, I'm Enes
 
-### I turn ambitious ideas into software people can actually use.
-
-I work with AI Agents and Enterprise AI at Danske Bank, and take on selected
-freelance full-stack projects. I enjoy the whole journey: getting curious about
-an idea, understanding the messy bits, and shaping it into something real.
+Full-stack developer. I build the screen, the API and the database behind it, and I work on AI agents and enterprise AI at Danske Bank.
 
 </div>
 
 ## What I build
 
-I build AI-powered products, useful internal tools and reliable backends. The
-interesting part for me is not just the model — it is making a feature clear,
-safe and genuinely helpful for the person using it.
+Web apps I can follow from the first click to the row in the database. Freelance work is usually the whole slice: interface, server, data, and the checks that tell me a change still holds. At the bank the work is agents and the systems around them.
 
 ## Projects I'm proud of
 
-| Project                                                                 | A quick look                                                                                        |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Respona](https://github.com/EnesCkmk1/respona-pov)                     | A Danish AI voice agent for restaurants: from a phone call to an order in a dashboard.              |
-| [Document Intelligence](https://github.com/EnesCkmk1/main-ai-explainer) | A Danish document-analysis app for PDFs, images and DOCX files with structured, validated output.   |
-| [InvoiceFlow AI](https://github.com/EnesCkmk1/main-invoiceai)           | An invoice platform that combines deterministic business logic with optional AI assistance.         |
-| [AI Observability Lab](https://github.com/EnesCkmk1/observability)      | A traced and evaluated RAG assistant — one part of the AI engineering picture, not the whole story. |
+| Project                                                                 | A quick look                                                                                                                                  |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [OpenEngineer](https://github.com/EnesCkmk1/openengineer)               | An open-source agent for an existing repo. It plans the task, edits in its own git worktree, runs the project's checks, and reports the real result. It does not merge or deploy. |
+| [Document Intelligence](https://github.com/EnesCkmk1/main-document-intelligence) | A Danish app for PDFs, images and DOCX. The model returns structured fields, and the API checks them against a schema before they are kept. |
+| [InvoiceFlow AI](https://github.com/EnesCkmk1/main-invoiceai)           | An invoice platform where the amounts are calculated in code. The model can help read a document. It does not decide the numbers.             |
+| [AI Observability Lab](https://github.com/EnesCkmk1/main-observability) | A traced RAG assistant with evaluations, guardrails and OpenTelemetry, so a model change shows up in the traces.                              |
 
 ## A little about how I work
 
-I have always been the person who nerds out on technology for its own sake. I
-like understanding how things work, building them myself and following an idea
-all the way from a rough experiment to something another person can open and
-use.
-
-That usually means I care about:
-
-- starting with the real problem instead of the flashiest tool;
-- keeping the product experience simple, even when the system behind it is not;
-- building with enough structure that the next iteration is easier, not harder;
-- testing assumptions and keeping AI features observable when they matter.
+I like taking a system apart until I know why it behaves the way it does, and then building the version another person can run. From the outside that is usually a plain screen, a small API, and tests on the parts that would be expensive to get wrong.
 
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,py,react,nodejs,fastapi,postgres,cloudflare,docker,aws,azure&perline=10" alt="TypeScript, Python, React, Node.js, FastAPI, PostgreSQL, Cloudflare, Docker, AWS and Azure">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,py,fastapi,postgres,docker,cloudflare,aws,azure&perline=6" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, Python, FastAPI, PostgreSQL, Docker, Cloudflare, AWS and Azure">
 </p>
 
 ## Right now
 
-I'm exploring practical agent experiences, better document workflows and how
-AI can take repetitive work off people's plates without making the product feel
-like a science project.
-
-<div align="center">
-
-Thanks for stopping by — have a look around, and feel free to steal a good idea.
-
-</div>
+OpenEngineer is the project on my desk: an agent that has to show its diff and its test output. Next to that, the document and invoice apps, where a model fills a field and the rest of the product stays ordinary software.
